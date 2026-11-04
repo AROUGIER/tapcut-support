@@ -1,0 +1,11 @@
+# Le site public de Tap Cut : les adresses de confidentialité et d'assistance qu'exige la fiche.
+#
+# Ce dossier est destiné à un dépôt public séparé, `tapcut-support`, comme `flux-support` pour Flux :
+# le code de l'app reste privé, et GitHub ne publie Pages depuis un dépôt privé qu'avec un abonnement
+# payant. C'est ce dossier qui fait foi ; le dépôt public en est la copie.
+title: Tap Cut
+description: Des reels montés sur le rythme que vous tapez
+theme: jekyll-theme-minimal
+
+# Le README parle du dépôt, pas de l’app : il ne devient pas une page.
+exclude: [README.md]
