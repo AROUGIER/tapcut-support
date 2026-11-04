@@ -15,8 +15,8 @@ audiencia.
 - **Tus fotos y vídeos.** Con tu permiso, Tap Cut lee la fototeca para proponerte tus Live Photos,
   vídeos, fotos y álbumes compartidos. Los elementos que eliges se copian en el espacio privado de
   la app, en el iPhone, para componer el reel. Nunca salen de él.
-- **Tu música.** El sonido que eliges — un archivo, el sonido de un vídeo o una canción comprada de
-  tu biblioteca — se copia en el espacio privado de la app y se analiza en el iPhone.
+- **Tu música.** El sonido que eliges — un archivo o el sonido de un vídeo — se copia en el
+  espacio privado de la app y se analiza en el iPhone.
 - **Tus tomas.** Los instantes que marcas y los ajustes de cada reel se quedan en el espacio privado
   de la app.
 - **Los reels terminados.** Tap Cut solo escribe en tu fototeca los reels que guardas.

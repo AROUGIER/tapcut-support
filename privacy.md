@@ -15,8 +15,8 @@ analytics.
 - **Your photos and videos.** With your permission, Tap Cut reads your photo library to offer your
   Live Photos, videos, photos and shared albums. The items you choose are copied into the app's
   private space, on the iPhone, to build the reel. They never leave it.
-- **Your music.** The sound you choose — a file, the sound of a video or a purchased song from your
-  library — is copied into the app's private space and analyzed on the iPhone.
+- **Your music.** The sound you choose — a file or the sound of a video — is copied into the
+  app's private space and analyzed on the iPhone.
 - **Your takes.** The moments you tap and each reel's settings stay in the app's private space.
 - **Finished reels.** Tap Cut only writes to your photo library the reels you save.
 
